@@ -157,3 +157,4 @@ footer{padding:28px 0 44px;color:var(--mute);font-size:.9rem;border-top:1px soli
 .cursor{display:inline-block;width:2px;height:1.1em;background:var(--gold);margin-left:3px;vertical-align:-.15em;animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 @media (max-width:640px){.typing{font-size:1.15rem}}
+.hero h1{font-family:"Great Vibes",cursive;font-weight:400;font-size:clamp(3.2rem,11vw,5.4rem);letter-spacing:0}
